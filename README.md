@@ -1,1 +1,1 @@
-# js-html-script-03
+# goit-js-hw-03
